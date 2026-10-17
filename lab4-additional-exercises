@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 61,
+   "execution_count": 65,
    "id": "ed6cf731",
    "metadata": {},
    "outputs": [
@@ -97,6 +97,8 @@
    ],
    "source": [
     "\n",
+    "# 1. ENGINEERING TEST DATA ORGANIZER\n",
+    "\n",
     "LAST_NAME = \"CELO\"\n",
     "SEED_NUM = 1\n",
     "FAVORITE_ARTIST = \"FELIP\"\n",
@@ -187,7 +189,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 64,
+   "execution_count": 66,
    "id": "9b5492f8",
    "metadata": {},
    "outputs": [
@@ -276,6 +278,8 @@
     }
    ],
    "source": [
+    "\n",
+    "# 2. STUDENT PERFORMANCE DATA ANALYZER\n",
     "\n",
     "# 2. Organized Student Data\n",
     "labels = [\"ALPHA\", \"BETA\", \"CHARLIE\", \"DELTA\", \"ECHO\"]\n",
